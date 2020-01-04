@@ -766,6 +766,7 @@
     <Compile Include="Models\Model\Admin.cs" />
     <Compile Include="Models\Model\Haqqımızda.cs" />
     <Compile Include="Models\Model\Kimlik.cs" />
+    <Compile Include="Models\Model\Kontakt.cs" />
     <Compile Include="Models\Model\TabelAttribute.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
